@@ -66,8 +66,6 @@ There are two datasets:
 ### 2. Prediction
 - The model makes predictions on the preprocessed test data.
 
-## Evaluation
-
 ### 1. Confusion Matrix
 - A confusion matrix is generated to visualize the model's performance on the test data, showing the relationship between predicted and actual values.
 
